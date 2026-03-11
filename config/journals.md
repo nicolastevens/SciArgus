@@ -3,7 +3,6 @@ arXiv
 EcoEvoRxiv
 EarthArXiv
 OSF Preprints
-TechRxiv
 Nature
 Science
 Proceedings of the National Academy of Sciences
@@ -26,7 +25,7 @@ Nature Sustainability
 Nature Plants
 Nature Water
 Nature Computational Science
-Nature Scientific Data
+Scientific Data
 Nature Methods
 Trends in Ecology & Evolution
 Annual Review of Ecology, Evolution, and Systematics
@@ -107,13 +106,9 @@ Journal of Environmental Economics and Management
 Review of Environmental Economics and Policy
 Environmental and Resource Economics
 Advances in Neural Information Processing Systems
-Proceedings of the International Conference on Machine Learning
-Proceedings of the International Conference on Learning Representations
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
-Proceedings of the IEEE/CVF International Conference on Computer Vision
-Proceedings of the European Conference on Computer Vision
+International Conference on Machine Learning
+International Conference on Learning Representations
 Proceedings of the AAAI Conference on Artificial Intelligence
-Proceedings of the IEEE International Geoscience and Remote Sensing Symposium
 Ecology and Society
 People and Nature
 Ambio

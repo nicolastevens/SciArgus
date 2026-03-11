@@ -33,4 +33,10 @@ Nick Wolff
 Luke Parsons
 James Erbaugh
 Peter Ellis
+Priya Shyamsundar
+Phillip Loering
+Brian Pentz
+Katherine Hayhoe
+Nichole Barger
+John Poulsen
 Geethen Singh
